@@ -1,2 +1,4 @@
 # Maze-game
-A new repo
+Live website: https://game-of-mazes.netlify.app/
+
+Skills: Html. Css, Javascript.
